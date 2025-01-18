@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug related to null checks. The `bug.js` file contains a function that only checks for null values, neglecting undefined values which might lead to unexpected behavior or errors. The `bugSolution.js` file provides an improved version that correctly handles both null and undefined values.
